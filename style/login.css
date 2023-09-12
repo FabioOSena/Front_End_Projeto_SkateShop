@@ -1,0 +1,97 @@
+.conteudo2{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    margin-top: 10vh;
+   }
+
+
+.titulo1 h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70vw;
+    font-size: 23px; 
+    margin-bottom: 30px;
+}
+
+
+.bloco_form1 label {
+    font-size: 20px;
+    display: inline-flex;
+    margin-bottom: 5px;
+    color: white;
+    font-family: 'Luckiest Guy';
+    margin-left: 17vw;    
+}
+
+.bloco_form1 input {
+    display: block;
+    border: 1px solid #857a7a;
+    border-radius: 20px;
+    width: 60%;
+    font-size: 16px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+
+}
+
+
+.iniciar{
+    width:20vw;
+    height: 8vh;
+    background-color: #B126E8;
+    color: white;
+    font-weight: bold;
+    font-family: 'Luckiest Guy';
+    font-size: 23px;
+    border-radius: 30px;
+    border: none;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    cursor: pointer;
+}
+
+/* .botao1 {
+    background-color: #B126E8;
+    color: white;
+    font-weight: bold;
+    font-family: 'Luckiest Guy';
+    font-size: 23px;
+    padding: 10px;
+    border-radius: 30px;
+    width: 20%;
+    border: none;
+    margin-top: 40px;
+    margin-left: 550px;
+    margin-right: auto;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 300px;
+     cursor: pointer; 
+    
+} */
+
+.recuperacao a{
+    margin-top: 2vw;
+    color: white;
+    margin-left: 48vw;
+    font-family: 'Inter';
+
+}
+
+.botaoIniciar{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-bottom: 3vw;
+    margin-top: 3vw;
+}

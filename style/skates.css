@@ -1,0 +1,51 @@
+.organizarSkates {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vw;
+}
+
+.organizarSkates1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vw;
+}
+
+.organizarSkates2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+}
+
+.S{
+    width:30vw ;
+    text-align: center;
+}
+
+.S img{
+    width: 15vw;
+    height: 30vh; 
+    
+}
+
+.S h3{
+    color: white;
+    font-size: 1.3vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.valor{
+color: white;
+font-size: 1.6vw;;
+}
+
+.titulo{
+    font-family: 'Luckiest Guy';
+    text-align: center;
+    padding-inline-end: 30px;
+}

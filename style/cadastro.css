@@ -1,0 +1,91 @@
+.conteudo1 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.titulo h1 {
+    color: white;
+    width: 40vw;
+    font-size: 23px;
+    margin-left: auto;
+    margin-right: 240px;
+    margin-bottom: 40px;
+}
+
+.bloco_form {
+
+    margin-top: 10px;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.bloco_form label {
+    font-size: 20px;
+    display: inline-flex;
+    margin-bottom: 5px;
+    color: white;
+    font-family: 'Luckiest Guy';
+    margin-left: 150px;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+
+.bloco_form input {
+    display: block;
+    border: 1px solid #857a7a;
+    border-radius: 20px;
+    width: 60%;
+    font-size: 16px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.botao{
+    background-color: #B126E8;
+    color: white;
+    font-weight: bold;
+    font-family: 'Luckiest Guy';
+    font-size: 120%;
+    padding: 10px;
+    border-radius: 30px;
+    width: 50%;
+    border: none;
+    margin-top: 40px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.login1 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.organizar_btn{
+    width: auto;
+    text-align: center;
+   
+}
+
+.cadastroOrganizar1 a{
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+}

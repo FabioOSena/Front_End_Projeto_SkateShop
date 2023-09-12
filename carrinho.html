@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suburbanos</title>
+    <link rel="shourtcut icon" href="./img/iconesite.ico">
+    <link rel="stylesheet" href="./font/LuckiestGuy-Regular.ttf">
+    <link rel="stylesheet" href="./style/style.css">
+    <link rel="stylesheet" href="./style/sobrenos.css">
+    <link rel="shortcut icon" href="/img/logoPreto02.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./style/carrinho.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <div class="container body-content">
+            <header>
+                <div class="login">
+                    <img src="./img/iconeUsuario.png" alt="">
+                    <a href="./login.html">Login</a>
+                    <a href="./cadastro.html">Cadastre-se</a>
+
+                </div>
+                <div class="logo">
+                    <a href="./index.html"><img src="./img/logoPreto.png" alt="logotipo Suburbanos"></a>
+                </div>
+                <div class="busca">
+                    <input type="text" id="txtBusca" placeholder="" />
+                    <img src="./img/icone.procurar.png" alt="incone.procurar">
+                </div>
+            </header>
+            <div class="topo">
+                <nav>
+                    <ul class="lista">
+                        <a href="index.html">
+                            <li>Home</li>
+                        </a>
+                        <a href="skates.html">
+                            <li>Skates</li>
+                        </a>
+                        <a href="acessorios.html">
+                            <li>Acessórios</li>
+                        </a>
+                        <a href="sobrenos.html">
+                            <li>Sobre nós</li>
+                        </a>
+                    </ul>
+                </nav>
+                <div class="iconeRedeSocial">
+                    <nav>
+                            <a href=""><img src="./img/icone-whats.png" alt=""></a>
+                            <a href="https://www.instagram.com/fabin_sena/"><img src="./img/icone-insta.png" alt=""></a>
+                    </nav>
+                    <div class="carrinho">
+                        <a href=""><img src="/img/carrinho-carrinho.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <!-- inicio do conteudo -->
+            <h1 class="titulo">Meu carrinho</h1>
+            <div>
+                <div>
+                    <ul id="carrinho"></ul>
+                    <p id="total">Total : R$ 0.00</p>
+                </div>
+                <div>
+
+
+                    <button id="finalizarPedido" class="finalizarPedido">Finalizar Pedido</button>
+
+                </div>
+            </div>
+            <!-- fim do conteudo -->
+            
+        </div>
+        <footer>
+            <h3>Desenvolvido por Gabriel e Fabio e Jhony</h3>
+        </footer>
+    </div>
+
+</body>
+<script src="./js/jquery-3.7.0.min.js"></script><!--colocar nesta orderm-->
+<script src="./js/carrinho.js"></script>
+
+</html>
